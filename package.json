@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/hr9457/async-landing#readme",
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
